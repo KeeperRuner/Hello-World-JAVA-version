@@ -1,5 +1,1 @@
-public class Hello World JAVA version {
-  public static void main(String[]args) {
-  System.out.println("HelloWorld");
-  }
-}
+这是我的第一行用JAVA语言运行的HelloWorld代码
