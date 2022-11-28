@@ -1,1 +1,1 @@
-这是我的第一行用JAVA语言运行的HelloWorld代码
+这是我用JAVA写的第一行HelloWorld代码
